@@ -119,8 +119,31 @@ td{
   padding-top: 5px;
   padding-bottom: 30px;
 }
+.center2{
+  text-align: center;
+  padding-left: 600px;
+}
+.img-44{
+  padding-left: 50px;
+}
+.img-45{
+  padding-left: 50px;
+}
+.A-Img{
+  justify-content: center;
+  padding-left: 50px;
+}
+.a-1{
+  text-align: center;
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+  margin: 100px;
+}
 footer{
-  font-size: 40px;
+  font-size: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   text-align: center;
   background-color: black;
   color: white;
